@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" fill="none">
+  <title>Mateusz Juszczyk — interfaces, systems, and the details in between.</title>
+  <desc>A warm charcoal banner with cream typography, a coral accent, and a schematic mechanical keyboard.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#F1EBDD" stroke-opacity=".035"/>
+    </pattern>
+    <linearGradient id="glow" x1="840" y1="0" x2="1200" y2="350" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D78065" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#D78065" stop-opacity="0"/>
+    </linearGradient>
+    <rect id="key" width="24" height="24" rx="4"/>
+  </defs>
+  <rect width="1200" height="350" rx="16" fill="#191A18"/>
+  <rect width="1200" height="350" rx="16" fill="url(#grid)"/>
+  <rect x="780" width="420" height="350" rx="16" fill="url(#glow)"/>
+  <path d="M54 58H82" stroke="#E7A184" stroke-width="3"/>
+  <text x="96" y="63" fill="#C4BFB2" font-family="monospace" font-size="14" letter-spacing="3">JUSZCZYK.CODES</text>
+  <text x="54" y="143" fill="#F3EEE4" font-family="Georgia, 'Times New Roman', serif" font-size="58">Mateusz Juszczyk</text>
+  <text x="57" y="190" fill="#E7A184" font-family="Arial, Helvetica, sans-serif" font-size="22">Interfaces, systems,</text>
+  <text x="57" y="222" fill="#E7A184" font-family="Arial, Helvetica, sans-serif" font-size="22">and the details in between.</text>
+  <path d="M56 264H715" stroke="#3B3D36"/>
+  <text x="57" y="299" fill="#ABA99D" font-family="monospace" font-size="13" letter-spacing="1.3">WEB DEVELOPMENT / APPLIED AI / HARDWARE DESIGN</text>
+  <g transform="translate(825 125) rotate(-8 150 85)">
+    <rect x="-12" y="-12" width="322" height="174" rx="17" stroke="#E7A184" stroke-opacity=".24"/>
+    <rect width="298" height="150" rx="10" fill="#20221E" stroke="#8D8D77" stroke-width="1.5"/>
+    <g fill="#2A2D26" stroke="#767B65" stroke-opacity=".8">
+      <use href="#key" x="12" y="12" fill="#A96E55"/><use href="#key" x="43" y="12"/><use href="#key" x="74" y="12"/><use href="#key" x="105" y="12"/><use href="#key" x="136" y="12"/><use href="#key" x="167" y="12"/><use href="#key" x="198" y="12"/><use href="#key" x="229" y="12"/><use href="#key" x="260" y="12"/>
+      <rect x="12" y="44" width="36" height="24" rx="4"/><use href="#key" x="55" y="44"/><use href="#key" x="86" y="44"/><use href="#key" x="117" y="44"/><use href="#key" x="148" y="44"/><use href="#key" x="179" y="44"/><use href="#key" x="210" y="44"/><rect x="241" y="44" width="43" height="24" rx="4"/>
+      <rect x="12" y="76" width="46" height="24" rx="4"/><use href="#key" x="65" y="76"/><use href="#key" x="96" y="76"/><use href="#key" x="127" y="76"/><use href="#key" x="158" y="76"/><use href="#key" x="189" y="76"/><rect x="220" y="76" width="64" height="24" rx="4"/>
+      <use href="#key" x="12" y="108"/><use href="#key" x="43" y="108"/><rect x="74" y="108" width="148" height="24" rx="4"/><use href="#key" x="229" y="108"/><use href="#key" x="260" y="108"/>
+    </g>
+    <circle cx="279" cy="142" r="2" fill="#E7A184"/>
+  </g>
+</svg>
