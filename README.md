@@ -1,5 +1,5 @@
 <a href="https://juszczyk.codes">
-  <img src="./assets/header.svg" width="100%" alt="Mateusz Juszczyk — interfaces, systems, and the details in between. Visit juszczyk.codes." />
+  <img src="./assets/header.webp" width="100%" alt="Mateusz Juszczyk — interfaces, systems, and the details in between. Visit juszczyk.codes." />
 </a>
 
 ### Hey, I'm Mateusz.
