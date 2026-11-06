@@ -43,6 +43,6 @@ AI workflows I can inspect and trust. Interfaces that stay useful offline. Movin
 
 ---
 
-[Portfolio](https://juszczyk.codes) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/mateusz-juszczyk-381a78422/) &nbsp; / &nbsp; 
+[Portfolio](https://juszczyk.codes) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/mateusz-juszczyk-381a78422/) &nbsp; 
 
 <sub>Good software. Thoughtful hardware. Always something on the workbench.</sub>
